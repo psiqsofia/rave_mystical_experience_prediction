@@ -1,4 +1,4 @@
-# Predicting Mystical Experiences (ME) at raves using neural networks
+# Predicting Mystical Experiences (ME) at Raves, using neural networks
 
 This project explores how psychological, contextual, and emotional factors might influence the likelihood of having a **mystical experience** during a rave or electronic music event. A mystical experience is a subjective experience characterized by a sense of union with something greater than oneself, often described as a profound spiritual or transcendent encounter.
 Here I combine simulated data, data visualization, and a neural network model built in Keras.
