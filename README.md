@@ -35,22 +35,31 @@ Example:
 
 ---
 
-## 📊 Exploratory Analysis
+## 📊 Exploratory Data Analysis (EDA)
+🟣 1. Mystical experience frequency
 
-Some key insights:
+Out of 200 participants, approximately 70 reported having had a mystical experience. 
+[Mystical Experience](images/mystical.png)
 
-- Higher spirituality and euphoric states correlate with mystical experiences.
-- People who reported substance use were more likely to have had a mystical experience, compared to those who did not. However, not all substance users experienced mysticism, indicating other contributing factors such as emotional state or spirituality.
-  
-_Visuals here:_
+🟪 2. Emotional state vs Mystical experience
 
+Participants who described their emotional state as euphoric were the most likely to report a mystical experience. In contrast, those feeling numb or sad had the lowest frequency of mystical experiences. This suggests a strong emotional activation may be a contributing factor in mystical states.
+[Emotional state](images/emotion.png)
 
-<p align="center">
-  <img src="images/emotion_vs_mystical.png" width="400"/>
-  <img src="images/spirituality_vs_mystical.png" width="400"/>
-</p>
+🟨 3. Spirituality level vs Mystical Experience
 
----
+Participants with low or medium spirituality levels reported fewer mystical experiences. Interestingly, those with a high level of spirituality had almost equal proportions of “Yes” and “No”, indicating that high spirituality may be related to, but not fully predictive of, mystical experiences.
+[Spirituality Level](images/spirituality.png)
+
+💛 4. Substance use vs Mystical Experience
+
+Among participants who reported no substance use, very few experienced mystical states. On the other hand, those who did use substances were almost equally split between having and not having mystical experiences. This supports the hypothesis that substance use might increase the likelihood of a mystical experience, but is not a guarantee.
+[Substance use](images/substance.png)
+💜 5. Connection with Others vs Mystical Experience
+
+Participants who felt more connected with others during their experience were more likely to report a mystical state. This variable appears as one of the strongest correlates with mysticism, hinting at the importance of interpersonal or collective experience in transcendence.
+
+[Connection with Others](images/connection.png)
 
 ## 🧠 Neural Network Model
 
