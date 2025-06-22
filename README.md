@@ -39,28 +39,29 @@ Example:
 1. Mystical experience frequency
 
 Out of 200 participants, approximately 70 reported having had a mystical experience. 
-[Mystical Experience](images/mystical.jpg)
+![Mystical Experience](images/mystical.jpg)
 
 2. Emotional state vs Mystical experience
 
 Participants who described their emotional state as *euphoric* were the most likely to report a mystical experience, while those feeling *numb* or *sad* had the lowest frequency.
 
-[Emotional state](images/emotion.jpg)
+![Emotional state](images/emotion.jpg)
 
 3. Spirituality level vs Mystical experience
 
 Interestingly, those with a high level of spirituality had nearly equal proportions of “Yes” and “No” responses, indicating that spirituality may be related to—but not fully predictive of—mystical experiences.
-[Spirituality Level](images/spirituality.jpg)
+![Spirituality Level](images/spirituality.jpg)
 
 4. Substance use vs Mystical experience
 
 Among participants who reported no substance use, very few experienced mystical states. On the other hand, those who did use substances were almost equally split between having and not having mystical experiences. This supports the hypothesis that substance use might increase the likelihood of a mystical experience, but is not a guarantee.
-[Substance use](images/substance.jpg)
+![Substance use](images/substance.jpg)
+
 5. Connection with Others vs Mystical experience
 
 Participants who felt more connected with others during their experience were more likely to report a mystical state. This variable appears as one of the strongest correlates with mysticism, hinting at the importance of interpersonal or collective experience in transcendence.
 
-[Connection with Others](images/connection.jpg)
+![Connection with Others](images/connection.jpg)
 
 ## 🧠 Neural Network Model
 
